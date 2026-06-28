@@ -1,4 +1,4 @@
-# 
+# Exclusivo Visual Studio temas para Mac OS | Leve Visual Studio temas para PC Windows. Com visualização de respostas e verificações de saúde — otimizado para máximo desempenho em cada plataforma.
 
 
 
